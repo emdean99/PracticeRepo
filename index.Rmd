@@ -1,0 +1,10 @@
+---
+title: "My Homepage"
+author: "Ethan Dean"
+date: "2/10/2021"
+output: html_document
+---
+
+## This is my Practice Repo
+
+My name is *Ethan* and I like **SAXOPHONE**
