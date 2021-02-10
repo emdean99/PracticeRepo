@@ -11,4 +11,12 @@ output:
 
 ## This is my Practice Repo
 
+<img src="DataTNG.jpg" width="200" length="200" />
+
 My name is *Ethan* and I like **SAXOPHONE**
+
+#### Homework Assignments
+
+#### Week 1: **Nothing Due**
+
+#### Week 3: [link text: Homework 3 Answers](Homework/HW3.html)
