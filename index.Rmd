@@ -1,7 +1,7 @@
 ---
 title: "My Homepage"
 author: "Ethan Dean"
-date: "2/10/2021"
+date: "Febuary 2021"
 output: html_document
 ---
 
