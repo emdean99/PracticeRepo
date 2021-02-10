@@ -2,7 +2,11 @@
 title: "My Homepage"
 author: "Ethan Dean"
 date: "Febuary 2021"
-output: html_document
+output: 
+  prettydoc::html_pretty:
+    theme: tactile
+    highlight: github
+  
 ---
 
 ## This is my Practice Repo
